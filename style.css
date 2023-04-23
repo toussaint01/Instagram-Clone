@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+.form{
+    margin-top: 20px;
+}
+.brand-name{
+    font-size: 60px;
+}
+.form-field{
+    margin-top: 30px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #FAFAFA;
+}
+.btn{
+    border-radius: 10px;
+    background-color:#4CB5F9;
+    padding: 10px;
+    width: 100%;
+    color: #fff;
+    border: 1px solid #4CB5F9;
+    margin-top: 30px;
+
+}
+.btn:hover{
+    background-color: black;
+    border: 1px solid #000;
+}
+.feed{
+    background-color: #000;
+    color: #fff;
+}
+
+/* .text-centered{
+    text-align: center;
+} */
